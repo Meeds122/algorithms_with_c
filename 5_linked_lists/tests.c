@@ -6,6 +6,6 @@
 
 int main()
 {
-	printf("File linking? %d\n", testFunction(5));
+	
 	return 0;
 }
