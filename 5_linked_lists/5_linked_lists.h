@@ -1,8 +1,6 @@
 #ifndef LINKED_LISTS
 #define LINKED_LISTS
 
-#include <stdio.h>
-
 /************************
  * STRUCTURES AND TYPES *
  ************************/
